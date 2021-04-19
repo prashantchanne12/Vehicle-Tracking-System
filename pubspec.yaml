@@ -30,6 +30,8 @@ dependencies:
   cupertino_icons: ^0.1.3
   firebase_database:
   firebase_core:
+  geocoder:
+  maps_launcher:
 
 
 dev_dependencies:
