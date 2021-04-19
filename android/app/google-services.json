@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "900169586608",
+    "firebase_url": "https://gps-tracking-system-6f1cc-default-rtdb.firebaseio.com",
+    "project_id": "gps-tracking-system-6f1cc",
+    "storage_bucket": "gps-tracking-system-6f1cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900169586608:android:f555ae5c219cb09e60e875",
+        "android_client_info": {
+          "package_name": "com.prashantchanne.gps_tracking_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900169586608-inf51028e2i447umuo90melpc76i739o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaxFPLNmIlPPZxUvZ-7PhtW-YutImQb1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900169586608-inf51028e2i447umuo90melpc76i739o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
