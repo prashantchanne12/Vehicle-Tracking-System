@@ -72,6 +72,7 @@ class _MyHomePageState extends State<MyHomePage> {
         backgroundColor: Color(0xff0984e3),
         actions: [
           IconButton(
+            color: Colors.yellowAccent,
             icon: Icon(Icons.refresh),
             onPressed: () {
               getData();
